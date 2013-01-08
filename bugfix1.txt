@@ -1,2 +1,3 @@
 #this is my bug fix1 file
 another line
+3rd line
