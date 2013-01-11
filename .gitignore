@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 temp
 *.swp~
+=======
+assets/
+protected/runtime/
+themes/classic/views/
+>>>>>>> 57fe57912b093001a1ddaa18c7da737a85ee9b2f
